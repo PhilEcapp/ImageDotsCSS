@@ -1,6 +1,4 @@
-index.html
-
-<h1 dir="auto">Example - Advanced Usage</h1>
+<h1 dir="auto">File - index.html</h1>
 
 <html>
 <head>
@@ -19,7 +17,7 @@ index.html
 </body>
 </html>
 
-style.css
+<h1 dir="auto">File - style.css</h1>
 
 <pre>
 .con {
