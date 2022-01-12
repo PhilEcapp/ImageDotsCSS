@@ -1,5 +1,7 @@
 index.html
 
+<h1 dir="auto">Example - Advanced Usage</h1>
+
 <html>
 <head>
 <link rel="stylesheet" href="css/style.css">
