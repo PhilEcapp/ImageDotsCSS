@@ -1,6 +1,4 @@
-index.html
-
-<h1 dir="auto">File - index.html</h1>
+<h1 dir="auto">File 01 - index.html</h1>
 <html>
 <head>
 <link rel="stylesheet" href="css/style.css">
@@ -18,7 +16,7 @@ index.html
 </body>
 </html>
 
-<h1 dir="auto">File - style.css</h1>
+<h1 dir="auto">File 02 - style.css</h1>
 
 <pre>
 .con {
