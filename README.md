@@ -1,5 +1,6 @@
-<h1 dir="auto">File - index.html</h1>
+index.html
 
+<h1 dir="auto">File - index.html</h1>
 <html>
 <head>
 <link rel="stylesheet" href="css/style.css">
@@ -58,6 +59,6 @@ img {
 
 <p dir="auto">
     <strong>
-        <a href="http://ecapp.co.uk/" rel="nofollow">ecapp.co.uk</a>
+        <a href="http://ecapp.co.uk/" rel="nofollow" target="_blank">Website: ecapp.co.uk</a>
     </strong>
 </p>
