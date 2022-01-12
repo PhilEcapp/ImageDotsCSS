@@ -1,6 +1,5 @@
 index.html
 
-<pre>
 <html>
 <head>
 <link rel="stylesheet" href="css/style.css">
@@ -17,7 +16,6 @@ index.html
 
 </body>
 </html>
-</pre>
 
 style.css
 
