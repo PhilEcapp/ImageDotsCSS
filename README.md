@@ -57,8 +57,8 @@ img {
 
 ![Actual_Pic](https://user-images.githubusercontent.com/74012005/149203874-15eb74c5-7853-4e68-bdc9-c48b1d807bbf.jpg)
 
-<p dir="auto">
+<!--<p dir="auto">
     <strong>
         <a href="http://ecapp.co.uk/" rel="nofollow" target="_blank">Website: ecapp.co.uk</a>
     </strong>
-</p>
+</p>-->
